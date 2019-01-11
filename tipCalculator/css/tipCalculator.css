@@ -1,0 +1,48 @@
+
+        #main{
+            border: 1px solid grey;
+            overflow: hidden;
+            max-width: 700px;
+            max-width: 653px;
+            padding: 10px 0px 10px 5px;
+        }
+        a{
+            text-decoration: none;
+        }
+        body{
+            font-size: 16px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+       #left{
+           float: left;
+       }
+       #right{
+          float: left;
+          font-size: 32px;
+       }
+       #displaySection{
+           padding-top: 55px;
+           padding-left: 10px;
+       }
+       input{
+           height: 32px;
+           font-size: 24px;
+           text-align: center;
+           margin: 0px;
+           padding: 0px;
+       }
+       button{
+           height: 32px;
+           margin: 0px;
+           
+           opacity: 0.55;
+       }
+       .result {
+        display: inline-block;
+        text-align: right;
+        padding-left: 40px;
+       }
+       .perPerson {
+           font-size: 15px;
+       }
+  
