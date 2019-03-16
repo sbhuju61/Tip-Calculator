@@ -1,2 +1,2 @@
-# javascript
-java script related projects
+# Tip Calculator
+
